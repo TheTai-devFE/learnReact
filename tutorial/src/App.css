@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0 auto;
+  box-sizing: border-box;
+}
+
+.App {
+  margin-top: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
